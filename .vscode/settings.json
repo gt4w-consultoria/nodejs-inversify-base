@@ -1,0 +1,12 @@
+{
+    "editor.suggestSelection": "first",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.renderLineHighlight": "gutter",
+    "breadcrumbs.enabled": true,
+    "editor.parameterHints.enabled": true,
+    "eslint.validate": ["typescript"],
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  }
